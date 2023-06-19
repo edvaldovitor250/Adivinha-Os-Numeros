@@ -1,4 +1,4 @@
-# O Jogo de Adivinha o de Numeros
+# O Jogo de Adivinha o Numeros
 
 Dá uma olhada nesse projeto bacana!
 
